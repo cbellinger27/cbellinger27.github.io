@@ -3,11 +3,13 @@ layout: archive
 title: "Machine Intelligence and Robot Learning (MIRL)"
 permalink: /mirl/
 author_profile: true
+
+author:
+  avatar: /assets/images/mirlImage.png
+  name: "MIRL Lab"
+  bio: "Machine Intelligence and Robot Learning Lab"
 ---
 
-<p align="center">
-  <img src="/assets/images/mirlImage.png" alt="MIRL Lab Logo" width="300"/>
-</p>
 
 ## Machine Intelligence and Robot Learning (MIRL)
 
