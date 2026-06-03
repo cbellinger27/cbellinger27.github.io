@@ -29,7 +29,7 @@ I lead the **Machine Intelligence and Robot Learning (MIRL)** group and am a mem
 ## Latest News
 
 - **May 2026** — Two papers accepted at **RLC 2026**  
-- **April 2026** — Awarded **NSERC Discovery Grant**  
+- **April 2026** — Awarded **NSERC Discovery Grant**. See the research summary [here](https://uottawa-my.sharepoint.com/personal/cbelling_uottawa_ca/_layouts/15/guestaccess.aspx?share=IQA4HzpbroF3Tq1QEr_kfG7VAWuvRIn33z3nVd1Kvxw_t_Q&e=CVxmcL) and proposal [here](https://uottawa-my.sharepoint.com/personal/cbelling_uottawa_ca/_layouts/15/guestaccess.aspx?share=IQBw8Zsdzu5VQ6VcYnQ3CfbDASG35XInTmkjWhI3CabEan0&e=aGuPwg).
 - **April 2026** — MSc thesis defense: *Alireza Seyed Azimi*  
 - **April 2026** — Honours research presented at **Canadian AI 2026**
 
