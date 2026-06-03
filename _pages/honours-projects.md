@@ -109,13 +109,11 @@ Strong programming skills (Python) and familiarity with machine learning are exp
 
 ## How to Apply
 
-If you are interested in an honours project, please complete the following form:
-
-👉 https://forms.cloud.microsoft/r/Hij4NX6dzu  
+If you are interested in an honours project, please email me.
 
 Please include:
 - A transcript (unofficial is fine)  
 - A brief statement of interest  
 - Any relevant experience (courses, projects, GitHub)
 
-``
+
