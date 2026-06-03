@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-theme                    : "ekyll-theme-minimal"
+theme                    : "jekyll-theme-minimal"
 title                    : "Colin Bellinger, Ph.D."
 title_separator          : "- "
 name                     : &name "Colin Bellinger"
