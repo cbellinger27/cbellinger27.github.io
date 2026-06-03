@@ -11,8 +11,6 @@ author:
 ---
 
 
-## Machine Intelligence and Robot Learning (MIRL)
-
 The **Machine Intelligence and Robot Learning (MIRL)** Lab at the University of Ottawa develops **data-efficient, safe, and adaptive machine learning systems**, with a focus on reinforcement learning and deep learning for real-world applications.
 
 Our research lies at the intersection of **machine learning, robotics, and decision-making under uncertainty**, with the goal of enabling intelligent agents to operate reliably in complex and dynamic environments.
