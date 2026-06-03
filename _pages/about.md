@@ -31,16 +31,17 @@ I lead the **Machine Intelligence and Robot Learning (MIRL)** group and am a mem
 
 [View full publication list (Google Scholar)](https://scholar.google.ca/citations?user=ZTBEngEAAAAJ&hl=en&oi=ao)
 
-- **[Paper Title 1]**, Conference/Journal, Year  
-- **[Paper Title 2]**, Conference/Journal, Year  
-- **[Paper Title 3]**, Conference/Journal, Year  
+- **[General and Efficient Visual Goal-Conditioned Reinforcement Learning using Object-Agnostic Masks](https://arxiv.org/pdf/2510.06277?)**, RLC, 2026  
+- **[Deep Policy Gradient Methods Without Batch Updates, Target Networks, or Replay Buffers](https://proceedings.neurips.cc/paper_files/paper/2024/hash/019ef89617d539b15ed610ce8d1b76e1-Abstract-Conference.html)**, NeurIPS, 2024
+- **[ChemGymRL: A customizable interactive framework for reinforcement learning for digital chemistry](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d3dd00183k)**, Digital Discovery, 2024  
+- **[Understanding CNN fragility when learning with imbalanced data](https://link.springer.com/article/10.1007/s10994-023-06326-9)**, Machine Learning, 2024
+- **[Learning When to Observe: A Frugal Reinforcement Learning Framework for a High-Cost World](https://link.springer.com/chapter/10.1007/978-3-031-74640-6_18)**, ECML-PKDD, 2023  
+- **[The class imbalance problem in deep learning](https://link.springer.com/article/10.1007/s10994-022-06268-8)**, Machine Learning, 2022  
 
 ---
 
 ## Prospective Students
 
-I am always looking for **motivated students** interested in reinforcement learning, deep learning, and robotics.
-
-Apply here: https://forms.cloud.microsoft/r/Hij4NX6dzu  
+I am always looking for motivated students interested in reinforcement learning, deep learning, and robotics. If you are interested please applied to the appropriate graduate program and completed the linked form [here](https://forms.cloud.microsoft/r/Hij4NX6dzu).
 
 For MSc/PhD applicants: please list me as your preferred supervisor. I review applications after admission decisions (spring intake for September start).
