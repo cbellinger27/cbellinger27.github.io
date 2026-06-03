@@ -26,6 +26,25 @@ I lead the **Machine Intelligence and Robot Learning (MIRL)** group and am a mem
 
 ---
 
+## Latest News
+
+- **May 2026** — Two papers accepted at **RLC 2026**  
+- **April 2026** — Awarded **NSERC Discovery Grant**  
+- **April 2026** — MSc thesis defense: *Alireza Seyed Azimi*  
+- **April 2026** — Honours research presented at **Canadian AI 2026**
+
+[More updates →](/news/)
+
+---
+
+## Prospective Students
+
+I am always looking for motivated students interested in reinforcement learning, deep learning, and robotics. If you are interested please applied to the appropriate graduate program and completed the linked form [here](https://forms.cloud.microsoft/r/Hij4NX6dzu).
+
+For MSc/PhD applicants: please list me as your preferred supervisor. I review applications after admission decisions (spring intake for September start).
+
+---
+
 ## Selected Publications
 
 [View full publication list (Google Scholar)](https://scholar.google.ca/citations?user=ZTBEngEAAAAJ&hl=en&oi=ao)
@@ -37,10 +56,4 @@ I lead the **Machine Intelligence and Robot Learning (MIRL)** group and am a mem
 - **[Learning When to Observe: A Frugal Reinforcement Learning Framework for a High-Cost World](https://link.springer.com/chapter/10.1007/978-3-031-74640-6_18)**, ECML-PKDD, 2023  
 - **[The class imbalance problem in deep learning](https://link.springer.com/article/10.1007/s10994-022-06268-8)**, Machine Learning, 2022  
 
----
 
-## Prospective Students
-
-I am always looking for motivated students interested in reinforcement learning, deep learning, and robotics. If you are interested please applied to the appropriate graduate program and completed the linked form [here](https://forms.cloud.microsoft/r/Hij4NX6dzu).
-
-For MSc/PhD applicants: please list me as your preferred supervisor. I review applications after admission decisions (spring intake for September start).
