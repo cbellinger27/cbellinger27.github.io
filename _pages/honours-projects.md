@@ -5,7 +5,6 @@ permalink: /honours-projects/
 author_profile: true
 ---
 
-## Computer Science Honours Projects
 
 I supervise undergraduate honours projects in machine learning, reinforcement learning, and robotics. These projects are designed to provide students with hands-on experience in **modern AI research**, including problem formulation, implementation, evaluation, and scientific communication.
 
