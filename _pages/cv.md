@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Affiliations
+======
+* Associate Professor of Computer Science, University of Ottawa, 2025 - ...
+* Faculty Affilicate, Vector Institute, 2025 - ...
+  
 Education
 ======
 * Ph.D in Machine Learning, University of Ottawa, 2016
@@ -33,9 +38,8 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
+  [View full publication list (Google Scholar)](https://scholar.google.ca/citations?user=ZTBEngEAAAAJ&hl=en&oi=ao)
   
 Talks
 ======
