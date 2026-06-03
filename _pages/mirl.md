@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p align="center">
-  <img src="/assets/images/mirl-logo.png" alt="MIRL Lab Logo" width="300"/>
+  <img src="/assets/images/mirlImage.png" alt="MIRL Lab Logo" width="300"/>
 </p>
 
 ## Machine Intelligence and Robot Learning (MIRL)
