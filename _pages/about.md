@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am an Associate Professor of Computer Science at the [University of Ottawa (EECS)](https://engineering.uottawa.ca/eecs). My research focuses on **deep learning and reinforcement learning for real-world systems**, with an emphasis on safety, efficiency, and learning under constraints.
+I am an Associate Professor of Computer Science at the [University of Ottawa (EECS)](https://engineering.uottawa.ca/eecs) and a Faculty Affiliate with the [Vector Institute](https://vectorinstitute.ai). My research focuses on **deep learning and reinforcement learning for real-world systems**, with an emphasis on safety, efficiency, and learning under constraints.
 
 I study how intelligent agents can learn from **limited, costly, or uncertain data**, and safely adapt to evolving environments. My work spans goal-conditioned learning, safe decision-making, and data-efficient machine learning, with applications in robotics, healthcare, the environment and scientific discovery.
 
