@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**Machine Intelligence and Robot Learning (MIRL)** group > Building safe, data-efficient AI systems for real-world deployment.
+**Machine Intelligence and Robot Learning (MIRL)** group: 
+> Building safe, data-efficient AI systems for real-world deployment.
 
 I am an Associate Professor of Computer Science at the [University of Ottawa (EECS)](https://engineering.uottawa.ca/eecs) and a Faculty Affiliate with the [Vector Institute](https://vectorinstitute.ai). My research focuses on **deep learning and reinforcement learning for real-world systems**, with an emphasis on safety, efficiency, and learning under constraints.
 
