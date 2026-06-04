@@ -36,7 +36,97 @@ Our research lies at the intersection of **machine learning, robotics, and decis
 
 ## People
 
-*(Coming soon — current PhD, MSc, undergraduate students, and collaborators)*
+## People
+
+### Current Members
+
+#### PhD Students
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+{% for person in site.data.people.phd %}
+  {% unless person.alumni %}
+  <div style="width: 200px; text-align: center;">
+    {{ person.image }}<br>
+    <strong>{{ person.name }}</strong><br>
+    <small>{{ person.description }}</small>
+  </div>
+  {% endunless %}
+{% endfor %}
+
+</div>
+
+---
+
+#### MSc Students
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+{% for person in site.data.people.msc %}
+  {% unless person.alumni %}
+  <div style="width: 200px; text-align: center;">
+    {{ person.image }}<br>
+    <strong>{{ person.name }}</strong><br>
+    <small>{{ person.description }}</small>
+  </div>
+  {% endunless %}
+{% endfor %}
+
+</div>
+
+---
+
+#### Undergraduate Researchers
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+{% for person in site.data.people.undergrad %}
+  {% unless person.alumni %}
+  <div style="width: 200px; text-align: center;">
+    {{ person.image }}<br>
+    <strong>{{ person.name }}</strong><br>
+    <small>{{ person.description }}</small>
+  </div>
+  {% endunless %}
+{% endfor %}
+
+</div>
+
+---
+
+### Alumni
+
+#### PhD Alumni
+
+- **Payam Parvizi** (PhD, 2026)  
+  *Wavefront Sensorless Adaptive Optics for Free-space Satellite-to-Ground Communication using Online Reinforcement Learning*  
+  Co-supervised with Prof. Davide Spinello (uOttawa) and Prof. Ross Cheriton (NRC)
+
+---
+
+#### MSc Alumni
+
+- **Fahim Shahriar** (MSc, 2026)  
+  *Simplifying Goal Representations with Masks in Vision-based Reinforcement Learning*  
+  Co-supervised with Prof. Rupam Mahmood (University of Alberta / Amii)
+
+- **Alireza Azimi** (MSc, 2026)  
+  *Reinforcement Learning for Robotics*  
+  Co-supervised with Prof. Rupam Mahmood (University of Alberta / Amii)
+
+- **Runnan Zou** (MASc, 2024)  
+  *Reinforcement Learning in Wavefront Sensorless Adaptive Optics Systems*  
+  Co-supervised with Prof. Davide Spinello (uOttawa) and Prof. Ross Cheriton (NRC)
+
+---
+
+#### Undergraduate Alumni
+
+- **Zahra Suleymanova** (Research Assistant, 2026)  
+  *Beyond Information Sufficiency: Observation-Action Space Alignment in Robotic Reinforcement Learning*
+
+- **Vishal Bhrat** (Research Assistant, 2026)  
+  *Beyond Information Sufficiency: Observation-Action Space Alignment in Robotic Reinforcement Learning*
 
 ---
 
