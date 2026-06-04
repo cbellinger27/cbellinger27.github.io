@@ -1,56 +1,57 @@
 phd:
   - name: Alex De Furia
     image: /assets/images/people/alex.jpg
-    description: Vulnerability classification with large language models
-    cosupervisor: "Paula Branco  (uOttawa), Guy-Vincent Jourdan  (uOttawa)"
-    start: November 2025
+    description: "Vulnerability classification with large language models"
+    cosupervisor: "Paula Branco, Guy-Vincent Jourdan"
+    start: "November 2025"
     alumni: false
 
 msc:
   - name: William Elliot Hamilton
     image: /assets/images/people/william.jpg
-    description: Model-based reinforcement learning for adaptive optics
+    description: "Thesis: Model-based reinforcement learning for adaptive optics"
     cosupervisor: "Davide Spinello (uOttawa), Ross Cheriton (NRC)"
-    start: September 2025
+    program: "MSc Thesis, Computer Science - Applied AI"
+    start: "September 2025"
     alumni: false
 
   - name: Aahil Jivani
     image: /assets/images/people/aahil.jpg
-    description: Continual model-based reinforcement learning
-    start: January 2026
+    description: "Continual model-based reinforcement learning"
+    program: "MSc Thesis, Systems Science and Engineering – Interdisciplinary AI"
+    start: "January 2026"
     alumni: false
 
   - name: Tanishk Nandal
     image: /assets/images/people/tanishk.jpg
-    description: Exploration in RL for LLM reasoning
-    cosupervisor: "Kathleen Fraser (uOttawa)"
-    start: May 2026
+    description: "Course-based: Exploration in RL with verifiable rewards for LLM reasoning"
+    cosupervisor: "Katie Fraser (uOttawa)"
+    program: "MSc Course-based, Computer Science"
+    start: "May 2026"
     alumni: false
 
   - name: Fengshou Xu
     image: /assets/images/people/fengshou.jpg
-    description: Mask-based goal conditioning for object placement
-    start: May 2026
-    alumni: false
-``
-
-  - name: Fengshou Xu
-    image: /assets/images/people/fengshou.jpg
-    description: Mask-based goal conditioning for object placement
+    description: "Course-based: Mask-based goal conditioning for guided object placement"
+    program: "MSc Course-based, Computer Science"
+    start: "May 2026"
     alumni: false
 
 undergrad:
   - name: Yasmine Trigui
     image: /assets/images/people/yasmine.jpg
-    description: Privacy-preserving synthetic health data
+    description: "Privacy-preserving synthetic health data"
+    program: "Computer Science"
     alumni: false
 
   - name: Sama Al-Akashi
     image: /assets/images/people/sama.jpg
-    description: Privacy-preserving synthetic health data
+    description: "Privacy-preserving synthetic health data"
+    program: "Computer Science"
     alumni: false
 
   - name: Bogdan Dobrynin
     image: /assets/images/people/bogdan.jpg
-    description: Model-based continual reinforcement learning
+    description: "Model-based continual reinforcement learning"
+    program: "Computer Science"
     alumni: false
