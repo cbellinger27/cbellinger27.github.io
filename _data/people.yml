@@ -1,0 +1,42 @@
+phd:
+  - name: Alex De Furia
+    image: /assets/images/people/alex.jpg
+    description: Vulnerability classification with large language models
+    alumni: false
+
+msc:
+  - name: William Elliot Hamilton
+    image: /assets/images/people/william.jpg
+    description: Model-based reinforcement learning for adaptive optics
+    alumni: false
+
+  - name: Aahil Jivani
+    image: /assets/images/people/aahil.jpg
+    description: Continual model-based reinforcement learning
+    alumni: false
+
+  - name: Tanishk Nandal
+    image: /assets/images/people/tanishk.jpg
+    description: Exploration in RL for LLM reasoning
+    alumni: false
+
+  - name: Fengshou Xu
+    image: /assets/images/people/fengshou.jpg
+    description: Mask-based goal conditioning for object placement
+    alumni: false
+
+undergrad:
+  - name: Yasmine Trigui
+    image: /assets/images/people/yasmine.jpg
+    description: Privacy-preserving synthetic health data
+    alumni: false
+
+  - name: Sama Al-Akashi
+    image: /assets/images/people/sama.jpg
+    description: Privacy-preserving synthetic health data
+    alumni: false
+
+  - name: Bogdan Dobrynin
+    image: /assets/images/people/bogdan.jpg
+    description: Model-based continual reinforcement learning
+    alumni: false
