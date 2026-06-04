@@ -49,6 +49,11 @@ Our research lies at the intersection of **machine learning, robotics, and decis
          style="width:150px; height:150px; object-fit:cover; border-radius:50%;"><br>
     <strong>{{ person.name }}</strong><br>
     <small>{{ person.description }}</small>
+    
+    {% if person.cosupervisor %}
+      <small><em>Co-supervised with {{ person.cosupervisor }}</em></small>
+    {% endif %}
+
   </div>
   {% endunless %}
 {% endfor %}
@@ -68,6 +73,9 @@ Our research lies at the intersection of **machine learning, robotics, and decis
          style="width:150px; height:150px; object-fit:cover; border-radius:50%;"><br>
     <strong>{{ person.name }}</strong><br>
     <small>{{ person.description }}</small>
+    {% if person.cosupervisor %}
+      <small><em>Co-supervised with {{ person.cosupervisor }}</em></small>
+    {% endif %}
   </div>
   {% endunless %}
 {% endfor %}
@@ -87,6 +95,9 @@ Our research lies at the intersection of **machine learning, robotics, and decis
          style="width:150px; height:150px; object-fit:cover; border-radius:50%;"><br>
     <strong>{{ person.name }}</strong><br>
     <small>{{ person.description }}</small>
+    {% if person.cosupervisor %}
+      <small><em>Co-supervised with {{ person.cosupervisor }}</em></small>
+    {% endif %}
   </div>
   {% endunless %}
 {% endfor %}
