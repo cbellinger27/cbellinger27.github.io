@@ -12,7 +12,7 @@ redirect_from:
 Affiliations
 ======
 * Associate Professor of Computer Science, University of Ottawa, 2025 - ...
-* Faculty Affilicate, Vector Institute, 2025 - ...
+* Faculty Affiliate, Vector Institute, 2025 - ...
   
 Education
 ======
@@ -28,11 +28,11 @@ Work experience
 
 * Donald Hill Fellow: July 2018 - Oct. 2018
   * Dalhousie University, Computer Science
-  * Machine Learning research
+  * Machine Learning Researcher
 
 * Postdoctoral Fellow: May 2016 - July 2018: 
   * University of Alberta, AMII
-  * Machine Learning research
+  * Machine Learning Researcher
   
 
 
