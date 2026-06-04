@@ -31,6 +31,10 @@ main:
 
   - title: "MIRL Group"
     url: /mirl/  
+
+  - title: "Honours Projects"
+    url: /honours-projects/
+
     
   # - title: "CV"
   #   url: /cv-json/
