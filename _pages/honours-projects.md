@@ -5,10 +5,47 @@ permalink: /honours-projects/
 author_profile: true
 ---
 
-
 I supervise undergraduate honours projects in machine learning, reinforcement learning, and robotics. These projects are designed to provide students with hands-on experience in **modern AI research**, including problem formulation, implementation, evaluation, and scientific communication.
 
 Students will gain experience with **PyTorch, reinforcement learning frameworks, robotics platforms**, and real-world experimental design.
+
+---
+
+## Past Student Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1 1 300px; border: 1px solid #e5e7eb; padding: 15px; border-radius: 8px;">
+    <strong>Reinforcement Learning with Pre-Collected Datasets</strong><br>
+    <small><b>Fall 2025</b></small><br><br>
+    <small>Tara Denaud Joseph, Richa Kewalramani, Fay Lee</small>
+  </div>
+
+  <div style="flex: 1 1 300px; border: 1px solid #e5e7eb; padding: 15px; border-radius: 8px;">
+    <strong>Reinforcement Learning and Its Applications on the Kinova Gen3 Lite Robotic Arm</strong><br>
+    <small><b>Fall 2025</b></small><br><br>
+    <small>Zahra Suleymanova, Vishal Bhat</small>
+  </div>
+
+  <div style="flex: 1 1 300px; border: 1px solid #e5e7eb; padding: 15px; border-radius: 8px;">
+    <strong>Multi-Agent Reinforcement Learning for Safe Hovering and Navigation on Crazyflie Drones</strong><br>
+    <small><b>Fall 2025</b></small><br><br>
+    <small>Michael O’Sullivan, Aydin Yalcinkaya</small>
+  </div>
+
+  <div style="flex: 1 1 300px; border: 1px solid #e5e7eb; padding: 15px; border-radius: 8px;">
+    <strong>Single-Agent Reinforcement Learning for Drone Robotics</strong><br>
+    <small><b>Fall 2025</b></small><br><br>
+    <small>Kevin Naveen, Chad B. Yassin, Pronoy Fuad</small>
+  </div>
+
+  <div style="flex: 1 1 300px; border: 1px solid #e5e7eb; padding: 15px; border-radius: 8px;">
+    <strong>Is PPO Inherently Safe?</strong><br>
+    <small><b>Winter 2026</b></small><br><br>
+    <small>Estelle Ngounou, Eliel Beonao, Jean-Philippe Nahimana Bahenda</small>
+  </div>
+
+</div>
 
 ---
 
@@ -114,6 +151,4 @@ If you are interested in an honours project, please email me.
 Please include:
 - A transcript (unofficial is fine)  
 - A brief statement of interest  
-- Any relevant experience (courses, projects, GitHub)
-
-
+- Any relevant experience (courses, projects, GitHub)  
