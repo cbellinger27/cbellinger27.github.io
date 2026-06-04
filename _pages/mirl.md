@@ -64,7 +64,7 @@ Our research lies at the intersection of **machine learning, robotics, and decis
 {% for person in site.data.people.msc %}
   {% unless person.alumni %}
   <div style="width: 200px; text-align: center;">
-    <img src="{{ person.image | default: '/assets/images/people/default.jpg' }}" 
+    <img src="{{ person.image | default: '/assets/images/mirlImage.png' }}" 
          style="width:150px; height:150px; object-fit:cover; border-radius:50%;"><br>
     <strong>{{ person.name }}</strong><br>
     <small>{{ person.description }}</small>
@@ -83,7 +83,7 @@ Our research lies at the intersection of **machine learning, robotics, and decis
 {% for person in site.data.people.undergrad %}
   {% unless person.alumni %}
   <div style="width: 200px; text-align: center;">
-    <img src="{{ person.image | default: '/assets/images/people/default.jpg' }}" 
+    <img src="{{ person.image | default: '/assets/images/mirlImage.png' }}" 
          style="width:150px; height:150px; object-fit:cover; border-radius:50%;"><br>
     <strong>{{ person.name }}</strong><br>
     <small>{{ person.description }}</small>
