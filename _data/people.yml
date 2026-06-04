@@ -2,26 +2,37 @@ phd:
   - name: Alex De Furia
     image: /assets/images/people/alex.jpg
     description: Vulnerability classification with large language models
-    co-supervisor(s): Paula Branco (uOttawa), Guy-Vincent Jourdan (uOttawa)
+    cosupervisor: "Paula Branco  (uOttawa), Guy-Vincent Jourdan  (uOttawa)"
+    start: November 2025
     alumni: false
 
 msc:
   - name: William Elliot Hamilton
     image: /assets/images/people/william.jpg
-    description: MSc Thesis: Model-based reinforcement learning for adaptive optics
-    co-supervisor(s): Davide Spinello (uOttawa), Ross Cheriton (NRC)
+    description: Model-based reinforcement learning for adaptive optics
+    cosupervisor: "Davide Spinello (uOttawa), Ross Cheriton (NRC)"
+    start: September 2025
     alumni: false
 
   - name: Aahil Jivani
     image: /assets/images/people/aahil.jpg
-    description: MSc Thesis: Continual model-based reinforcement learning
+    description: Continual model-based reinforcement learning
+    start: January 2026
     alumni: false
 
   - name: Tanishk Nandal
     image: /assets/images/people/tanishk.jpg
-    description: MSc (course-based project): Exploration in RL for LLM reasoning
-    co-supervisor(s): Kathleen Fraser (uOttawa)
+    description: Exploration in RL for LLM reasoning
+    cosupervisor: "Kathleen Fraser (uOttawa)"
+    start: May 2026
     alumni: false
+
+  - name: Fengshou Xu
+    image: /assets/images/people/fengshou.jpg
+    description: Mask-based goal conditioning for object placement
+    start: May 2026
+    alumni: false
+``
 
   - name: Fengshou Xu
     image: /assets/images/people/fengshou.jpg
