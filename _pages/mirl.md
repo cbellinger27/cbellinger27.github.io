@@ -159,6 +159,6 @@ Prospective MSc and PhD students should indicate **Colin Bellinger** as their pr
 
 ## Affiliations
 
-- University of Ottawa — [School of EECS](https://www.uottawa.ca/faculty-engineering/)
-- [Vector Institute (Faculty Affiliate)](https://vectorinstitute.ai)
-- [IARA Lab](https://cbellinger27.github.io/iara-site/)
+- University of Ottawa, School of Electrical Engineering and Computer Science. [see](https://www.uottawa.ca/faculty-engineering/)
+- Vector Institute. [see](https://vectorinstitute.ai)
+- Instrumentation and Autonomous Robotics Agents Lab (IARA). [see](https://cbellinger27.github.io/iara-site/)
