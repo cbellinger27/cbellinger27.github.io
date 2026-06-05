@@ -16,7 +16,7 @@ msc:
     alumni: false
 
   - name: Aahil Jivani
-    image: /assets/images/people/aahil.jpg
+    image: /assets/images/people/aahil.png
     description: "Thesis: Continual model-based reinforcement learning"
     program: "MSc Thesis, Systems Science and Engineering – Interdisciplinary AI"
     start: "January 2026"
