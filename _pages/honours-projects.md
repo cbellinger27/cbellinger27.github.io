@@ -15,6 +15,7 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
+  <!-- Project 1 -->
   <div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
     
     <div style="padding: 20px;">
@@ -30,6 +31,31 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
       <small>
         <b>Collaboration:</b> Vector Institute, TELUS Health
       </small>
+    </div>
+
+  </div>
+
+  <!-- Project 2 -->
+  <div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
+    
+    <div style="padding: 20px;">
+      <span style="color: #2563eb; font-weight: bold;">Featured Collaboration</span><br><br>
+
+      <strong>Sim-to-Online Reinforcement Learning for Robotics Control</strong><br>
+      <small><b>Ongoing Research Collaboration</b></small><br><br>
+
+      <small>
+        This project investigates sim-to-online reinforcement learning for robotic control. An initial control policy is learned efficiently in a JAX-based simulation using Soft Actor-Critic (SAC), and then transferred to a physical robotic system. The policy is further adapted online using advantage-guided learning approaches inspired by recent work in adaptive value-guided (AVG) methods, enabling improved robustness and performance in real-world environments.
+      </small><br><br>
+
+      <small>
+        <b>Collaboration:</b> Amii, National Research Council (NRC)
+      </small><br><br>
+
+      <small>
+        <a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/019ef89617d539b15ed610ce8d1b76e1-Paper-Conference.pdf">Related Work</a>
+      </small>
+
     </div>
 
   </div>
