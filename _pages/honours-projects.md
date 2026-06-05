@@ -45,7 +45,7 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
       <small><b>Ongoing Research Collaboration</b></small><br><br>
 
       <small>
-        This project investigates sim-to-online reinforcement learning for robotic control. An initial control policy is learned efficiently in a JAX-based simulation using Soft Actor-Critic (SAC), and then transferred to a physical robotic system. The policy is further adapted online using advantage-guided learning approaches inspired by recent work in adaptive value-guided (AVG) methods, enabling improved robustness and performance in real-world environments.
+        This project investigates sim-to-online reinforcement learning for robotic control. An initial control policy is learned efficiently in a JAX-based simulation using Soft Actor-Critic (SAC), and then An initial control policy is learned efficiently in a JAX-based simulation using Soft Actor-Critic (SAC), and then transferred to a physical robotic system.  to a physical robotic system. The policy is further adapted online using incremental deep reinforcement learning approaches inspired by recent work, the Action Value Gradient (AVG) methods. The aim is faciliate efficient, adaptable and robustness embodied agents.
       </small><br><br>
 
       <small>
