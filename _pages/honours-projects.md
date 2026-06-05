@@ -11,6 +11,34 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
 
 ---
 
+## Featured Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
+    
+    <div style="padding: 20px;">
+      <span style="color: #2563eb; font-weight: bold;">Featured Collaboration</span><br><br>
+
+      <strong>Privacy-Preserving Synthetic Health Data Generation</strong><br>
+      <small><b>Ongoing Undergraduate Research</b></small><br><br>
+
+      <small>
+        This project focuses on developing generative models for producing high-quality synthetic health data while preserving patient privacy. The work explores trade-offs between data utility and privacy guarantees, with applications in healthcare analytics and machine learning.
+      </small><br><br>
+
+      <small>
+        <b>Collaboration:</b> Vector Institute, TELUS Health
+      </small>
+    </div>
+
+  </div>
+
+</div>
+
+---
+
+
 ## Past Student Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
