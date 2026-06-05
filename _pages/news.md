@@ -52,4 +52,4 @@ Updates on publications, funding, and research activities.
 ▸ **[Service]** Appointed **Faculty Affiliate**  
 &nbsp;&nbsp;&nbsp;&nbsp;Vector Institute  
 &nbsp;&nbsp;&nbsp;&nbsp; https://vectorinstitute.ai/  
-``
+
