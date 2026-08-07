@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Undergraduate Honours Projects"
+title: "Open Honours and Course Projects"
 permalink: /honours-projects/
 author_profile: true
 ---
