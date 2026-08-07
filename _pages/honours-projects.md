@@ -63,6 +63,7 @@ Research activities include evaluating transformer and diffusion-based synthetic
 <b>Collaboration:</b> Canadian Insider Risk Management Centre of Excellence (CIR-MCE), Carleton University
 </small>
 </div>
+
 </div>
 
   <!-- Project 3 -->
@@ -89,8 +90,6 @@ Research activities include evaluating transformer and diffusion-based synthetic
     </div>
 
   </div>
-
-</div>
 
 <!-- Project 4 -->
 
@@ -121,6 +120,8 @@ Research directions include developing active perception and observation-selecti
 <b>Application Areas:</b> Robot manipulation, mobile robotics, sim-to-real transfer, adaptive sensing, and robust autonomy
 
 </small>
+
+</div>
 
 </div>
 
