@@ -19,7 +19,7 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
   <div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
     
     <div style="padding: 20px;">
-      <span style="color: #2563eb; font-weight: bold;">Featured Collaboration</span><br><br>
+      <span style="color: #2563eb; font-weight: bold;">Featured Collaborative Project</span><br><br>
 
       <strong>Privacy-Preserving Synthetic Health Data Generation</strong><br>
       <small><b>Ongoing Undergraduate Research</b></small><br><br>
@@ -41,7 +41,7 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
 
 <div style="padding: 20px;">
 
-<span style="color: #2563eb; font-weight: bold;">Featured Collaboration</span><br><br>
+<span style="color: #2563eb; font-weight: bold;">Featured Collaboration Project</span><br><br>
 
 <strong>AI for Cybersecurity: Privacy-Preserving Synthetic Data Generation for Insider Risk Modeling</strong><br>
   
@@ -70,7 +70,7 @@ Research activities include evaluating transformer and diffusion-based synthetic
   <div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
     
     <div style="padding: 20px;">
-      <span style="color: #2563eb; font-weight: bold;">Featured Collaboration</span><br><br>
+      <span style="color: #2563eb; font-weight: bold;">Featured Collaboration Project</span><br><br>
 
       <strong>Sim-to-Online Reinforcement Learning for Robotics Control</strong><br>
       <small><b>Ongoing Research Collaboration</b></small><br><br>
