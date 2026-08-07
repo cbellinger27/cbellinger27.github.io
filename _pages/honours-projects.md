@@ -5,7 +5,7 @@ permalink: /honours-projects/
 author_profile: true
 ---
 
-I supervise undergraduate honours projects in machine learning, reinforcement learning, and robotics. These projects are designed to provide students with hands-on experience in **modern AI research**, including problem formulation, implementation, evaluation, and scientific communication.
+I supervise graduate and undergraduate honours projects in deep learning, reinforcement learning, and physical AI. These projects are designed to provide students with hands-on experience in **modern AI research**, including problem formulation, implementation, evaluation, and scientific communication.
 
 Students will gain experience with **PyTorch, reinforcement learning frameworks, robotics platforms**, and real-world experimental design.
 
@@ -36,6 +36,36 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
   </div>
 
   <!-- Project 2 -->
+
+<div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
+
+<div style="padding: 20px;">
+
+<span style="color: #2563eb; font-weight: bold;">Featured Collaboration</span><br><br>
+
+<strong>AI for Cybersecurity: Privacy-Preserving Synthetic Data Generation for Insider Risk Modeling</strong><br>
+  
+<small><b>New Research Collaboration</b></small><br><br>
+
+<small>
+
+Organizations frequently possess valuable insider-risk and cybersecurity data that could improve threat detection and resilience across sectors. However, privacy, security, and legal concerns often prevent data sharing between organizations. This project investigates how generative AI can be used to learn from heterogeneous insider-threat datasets and generate high-utility synthetic data that can be safely shared without exposing sensitive organizational information.
+
+</small><br><br>
+
+<small>
+
+Research activities include evaluating transformer and diffusion-based synthetic data generation methods, studying privacy and re-identification risks, developing novel privacy-preserving generative algorithms, and measuring the trade-offs between data utility and privacy protection. The long-term goal is to create validated methods and prototype systems that enable secure knowledge sharing for insider risk management and cybersecurity applications.
+
+</small><br><br>
+
+<small>
+<b>Collaboration:</b> Canadian Insider Risk Management Centre of Excellence (CIR-MCE), Carleton University
+</small>
+</div>
+</div>
+
+  <!-- Project 3 -->
   <div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
     
     <div style="padding: 20px;">
@@ -62,6 +92,39 @@ Students will gain experience with **PyTorch, reinforcement learning frameworks,
 
 </div>
 
+<!-- Project 4 -->
+
+<div style="flex: 1 1 400px; border: 2px solid #2563eb; border-radius: 10px; overflow: hidden; background-color: #f8fafc;">
+
+<div style="padding: 20px;">
+
+<span style="color: #2563eb; font-weight: bold;">Featured Research Project</span><br><br>
+
+<strong>Learning When to Look: Active Observation Reinforcement Learning for Real Robots</strong><br>
+
+<small><b>Open Undergraduate and MSc project opportunty</b></small><br><br>
+
+<small>
+
+This project investigates how reinforcement learning agents can actively choose what to observe, when to observe, and how to use limited sensing to make robust decisions in real-world robotic systems. Rather than assuming that all state information is always available, the project studies robots that must operate under partial observability, sensor noise, latency, occlusions, limited viewpoints, and changing real-world conditions.
+
+</small><br><br>
+
+<small>
+
+Research directions include developing active perception and observation-selection policies, integrating uncertainty estimation into reinforcement learning, improving sim-to-real transfer under practical sensing constraints, and evaluating learned policies on physical robotic platforms such as manipulators, mobile robots, or aerial robots. The goal is to build RL agents that are not only sample-efficient in simulation, but also reliable when deployed on real hardware.
+
+</small><br><br>
+
+<small>
+
+<b>Application Areas:</b> Robot manipulation, mobile robotics, sim-to-real transfer, adaptive sensing, and robust autonomy
+
+</small>
+
+</div>
+
+</div>
 ---
 
 
