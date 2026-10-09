@@ -145,15 +145,6 @@ Our research lies at the intersection of **machine learning, robotics, and decis
 
 *(Coming soon — highlight key research projects, open-source work, and systems)*
 
----
-
-## Join the Lab
-
-We are always looking for motivated students interested in reinforcement learning, deep learning, and robotics.
-
-Apply [here](https://forms.cloud.microsoft/r/Hij4NX6dzu)
-
-Prospective MSc and PhD students should indicate **Colin Bellinger** as their preferred supervisor when applying to uOttawa EECS.
 
 ---
 
@@ -161,4 +152,4 @@ Prospective MSc and PhD students should indicate **Colin Bellinger** as their pr
 
 - University of Ottawa, School of Electrical Engineering and Computer Science. [see](https://www.uottawa.ca/faculty-engineering/)
 - Vector Institute. [see](https://vectorinstitute.ai)
-- Instrumentation and Autonomous Robotics Agents Lab (IARA). [see](https://cbellinger27.github.io/iara-site/)
+- Robots at uOttawa (Rob@uO). [see](https://cbellinger27.github.io/iara-site/)
